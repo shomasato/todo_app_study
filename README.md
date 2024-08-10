@@ -1,4 +1,4 @@
-# timer_app_08
+# Todo App Study
 
 A new Flutter project.
 
